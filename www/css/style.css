@@ -1,0 +1,19 @@
+/**/
+
+.container{
+   height: 500px;
+  background-color: lightpink;
+
+}
+
+.display{
+  margin-top: 10px;
+  height: 60px; 
+  font-size: 30px;
+}
+.row{
+  margin-top: 20px;
+}
+.row button {
+  font-size: 30px;
+}
